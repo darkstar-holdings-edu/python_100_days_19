@@ -21,7 +21,7 @@ The things you need before installing the software.
 ### Installation
 
 ```sh
-pipenv install -e .
+pipenv install --dev
 pipenv shell
 ```
 
