@@ -1,6 +1,3 @@
-from turtle import Turtle, Screen
-
-
 def main() -> None:
     pass
 
