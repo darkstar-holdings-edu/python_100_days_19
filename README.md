@@ -27,7 +27,9 @@ pipenv shell
 
 ## Usage
 
-ADD_USAGE
+- `main.py`: Just a place holder. It does nothing!
+- `etch_a_sketch.py`: A simple TK etch-a-sketch.
+- `project.py`: Turtle Races! Place your bets!
 
 ## License
 
